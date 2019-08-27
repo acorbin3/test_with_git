@@ -20,6 +20,7 @@ class MainActivity : AppCompatActivity() {
                     .setAction("Action", null).show()
         }
         println("Hello World")
+        println("@nd print")
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
